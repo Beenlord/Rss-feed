@@ -1,0 +1,8 @@
+!.gitkeep
+
+# All logs files
+logs
+.log
+
+# PhpStorm config
+.idea
